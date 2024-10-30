@@ -1,0 +1,19 @@
+#PenguinVM
+
+Versions:
+
+PenguinVM goes back to PenguinVM version 0.6.9-public_unstable because that is the first version this project went under the name PenguinVM. For historical versions that include
+things like the old command line system (with working commands) go to sites.google.com/view/penguinvm and find the Historical Archive for PenguinVM. It will be labeled as 
+Virtual Machine.
+
+Editions:
+
+PenguinVM will come in many different package types so you don't have to do it yourself. PenguinVM will natively come in the following environment applications/formats
+Windows (x86 or x64)
+WKWebView MacOS App (READ THE INFORMATION FILE)
+Electron Linux
+HTML (works in a browser)
+ZIP (for websites)
+Vanilla .pmp PenguinMod file (For modding/debugging/other things you would want to code into/change about PenguinVM)
+
+Each edition has their own respective branch. Please guide yourself to the branch of the edition that you would like to install.
