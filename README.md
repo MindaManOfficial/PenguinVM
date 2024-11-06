@@ -22,8 +22,11 @@ Recommendations
 (Yes the version numbers are a bit wonky but I am getting that worked out. There is also going to be an accessible archive of older versions. That is coming soon.)
 
 unstable - usually applied for new features. Bug testing stage. Bugs are EXPECTED!! Please report any that you find!
+
 stable - more reliable than unstable but still is getting bug tested
- - official release
+
+[blank] -official release
+
 vision - preview (new items subject to change)
 
 To see credits and resources used, use the "credits" cmd in any terminal
