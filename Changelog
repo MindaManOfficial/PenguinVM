@@ -1,0 +1,32 @@
+Changelog:
+
+-Fixed minor spelling mistakes
+
+-Added settings.exe (for BitShell>) (working on full functionality) (added main menu)
+
+-Fixed a bug where when opening the settings menu on the ASCII art boot screen, it would restart the game for no reason. Apparently it was the fault of the BIOS time tracker (somehow)
+
+-Added the first "debug:" features
+[Debug: commands added,
+debug:blank
+debug:reset
+debug:editvar]
+
+-Fixed multiple bugs that allowed the user to access BitShell or the BIOS at unintended times.
+
+-Fixed a bug where if you reset the VM it would boot into the BIOS instead of BitShell.
+
+-Added an updater. (VERY EARLY BETA)
+
+-Removed BIOS editable time and date. Now uses system info.
+
+
+Implementing Scratchy Language items:
+SL Kernel v0.3.0-beta
+SLdev.exe (v0.7.0-beta)
+SL.api (v0.0.1-alpha)
+SL_interpreter.main
+
+All Scratchy Language Development (SLD) tools can be found at sites.google.com/view/ScratchyLangauge or github.com/MindaManOfficial/ScratchyLanguage
+Other Tools can be found at sites.google.com/view/ScratchTools
+
