@@ -1,9 +1,7 @@
 # PenguinVM
 A Virtual Machine created in PenguinMod and with ScratchBlocks
 
-This message will appear in the PenguinMod Editor if you load it there and it might not be consistant.
-
-Hi, This is MindaMan! If you are reading this message I would like to thank you for downloading PenguinVM!
+You are installing the PenguinMod Installer. You do not need to do anything except configure your installations.
 
 DO NOT RUN PenguinVM THAT ISN'T FROM www.sites.google.com/view/penguinvm OR MY OFFICIAL GITHUB PAGE! PenguinVM isn't perfect and can be laced with something malicious. Look for the checkmark by the bootloader name if you aren't sure. (This isn't a perfect method so just redownload it if you need to)
 
