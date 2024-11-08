@@ -1,5 +1,5 @@
 # PenguinVM
-A Virtual Machine created in PenguinMod and with ScratchBlocks
+A Virtual Machine created in PenguinMod and with ScratchBlocks. (PENGUINVM IS NOT ASSOCIATED WITH PENGUINMOD, ITS DEVELOPERS, OR SERVICE AS A WHOLE. THIS IS JUST A PROJECT CREATED ON AND BRANDED AROUND PENGUINMOD.)
 
 You are installing the PenguinMod Installer. You do not need to do anything except configure your installations.
 
