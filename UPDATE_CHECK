@@ -1,6 +1,6 @@
 doing some testing. this will be a github local file for updating and telling PenguinVM what to update. this can also carry metadata that can alter code in the system.
 �EncryptBootLoader_version:0.6.1
-�EncryptBootLoader_build:1120122x3a ☑
-�BitShell_verion:0.7.3
-�BitShell_build-id:1000001345
-�BitShell_buildstate:unstable
+�EncryptBootLoader_build:1120122x3b ☑
+�BitShell_verion:0.7.3.1
+�BitShell_build-id:1000001346
+�BitShell_buildstate:beta
