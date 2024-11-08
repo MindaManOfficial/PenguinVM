@@ -1,7 +1,8 @@
 # PenguinVM
-A Virtual Machine created in PenguinMod and with ScratchBlocks. (PENGUINVM IS NOT ASSOCIATED WITH PENGUINMOD, ITS DEVELOPERS, OR SERVICE AS A WHOLE. THIS IS JUST A PROJECT CREATED ON AND BRANDED AROUND PENGUINMOD.)
+A Virtual Machine created in PenguinMod and with ScratchBlocks. 
+(PENGUINVM IS NOT ASSOCIATED WITH PENGUINMOD, ITS DEVELOPERS, OR SERVICE AS A WHOLE. THIS IS JUST A PROJECT CREATED ON AND BRANDED AROUND PENGUINMOD.)
 
-You are installing the PenguinMod Installer. You do not need to do anything except configure your installations.
+You are installing the PenguinMod Installer. You do not need to do anything except configure your installations. All of the sprites will be downloaded
 
 DO NOT RUN PenguinVM THAT ISN'T FROM www.sites.google.com/view/penguinvm OR MY OFFICIAL GITHUB PAGE! PenguinVM isn't perfect and can be laced with something malicious. Look for the checkmark by the bootloader name if you aren't sure. (This isn't a perfect method so just redownload it if you need to)
 
@@ -16,8 +17,6 @@ Recommendations
 - (If in Scratch) Play in mini mode. NOT FULLSCREEN (I have no idea why but the VM works way better in minimode than in full screen)
 - Report buggy behavior
 - This is open-source so do anything you want with this. Please don't take credit for my work!
-
-(Yes the version numbers are a bit wonky but I am getting that worked out. There is also going to be an accessible archive of older versions. That is coming soon.)
 
 unstable - usually applied for new features. Bug testing stage. Bugs are EXPECTED!! Please report any that you find!
 
