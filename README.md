@@ -28,6 +28,8 @@ vision - preview (new items subject to change)
 
 To see credits and resources used, use the "credits" cmd in any terminal
 
+The only file you will need is the .pmp file or a file in the PACKAGES.zip the rest will only be copies from the GitHub. Altering these files will do nothing as they will not affect yours or any other versions. They only look for files inside the official GitHub repository (this one).
+
 Changelogs are below in a separate file. Added since added to GitHub.
 Don't be afraid to make suggestions at mindaofficial01@gmail.com
 Have fun!
