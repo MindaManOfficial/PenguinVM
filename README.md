@@ -1,9 +1,6 @@
 # PenguinVM
 A Virtual Machine created in PenguinMod and with ScratchBlocks. 
 
-README.md adapted for use in PenguinVM Installer (I can't figure out how
-to do it without adding in special characters.)
-
 (PENGUINVM IS NOT ASSOCIATED WITH PENGUINMOD, ITS DEVELOPERS, OR SERVICE AS A WHOLE.
 THIS IS JUST A PROJECT CREATED ON AND BRANDED AROUND PENGUINMOD.)
 
