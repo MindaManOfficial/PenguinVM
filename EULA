@@ -1,5 +1,7 @@
 PenguinVM EULA
 
+Last Updated - 11/11/2024 11:37PM CST
+
 This is not a standard End User License Agreement. This is not legally written. 
 This is like a more advanced rulebook.
 
@@ -7,10 +9,71 @@ This is like a more advanced rulebook.
   This software is intended to be an experiment. In no way is this intended to
 be or act as a real Virtual Machine. DO NOT CREATE ANY SENSITIVE DATA/IMPORTANT
 DATA WITHOUT ASSUMING THE RISK OF IT BEING LOST/STOLEN AT ANYTIME. THERE ARE 
-SECURITY MEASURES IN PLACE BUT THEY ARE NOT PERFECT.
+SECURITY MEASURES IN PLACE BUT THEY ARE NOT PERFECT. This software is not
+intended to be used for creating malicious software. If you create anything
+with an intention to harm another persons save data, system, or steal anything,
+You will be prevented from using this software.
+
 2. COPYRIGHT
+  This project does allow and contain User Generated Content (UGC). Any UGC 
+uploaded to PenguinVM is allowed to be used within and ONLY within PenguinVM
+Uploading UGC does not remove any copyright from the original uploaders.
+Uploading someone elses content can have restrictions set on your account.
+If you believe someone is infringing on your copyright, please contact me
+at one of the contact methods listed in section 6. PenguinVM complies and
+supports the Digital Millennium Copyright Act (DMCA).
+
 3. DISTRIBUTATION
+  As PenguinVM is open-source software, I am fine with distributing copies 
+PenguinVM on your own private accounts without permission. Please do not
+modify protective code or disable any updating sprites that may allow the
+user to recieve security updates/lockdowns. DO NOT SELL PENGUINVM FOR ANY
+FORM OF CURRENCY. Please contact MindaMan on any accounts that are unique,
+specific, or just for informative purposes. Refer to my contact methods in
+Section 6. MODIFYING ANY KIND OF PROTECTIVE, DEFENSIVE, OR RESTRICTIVE CODE
+THAT CAN PREVENT CYBERATTACKS IS AGAINST THE EULA.
+
 4. USER GENERATED CONTENT (UGC)
-5. CONTACT METHODS
+  PenguinVM relies on a community for added functionality and apps. The
+App Store (PenguinApp) is the only current way to comply with the PenguinMod
+Uploading Rules and Guidelines. Any user can create an application using 
+SL-Runtime. SL and all of its other forms, properties, and standalone apps
+can be found and downloaded on MindaManOfficial's Github Page. These apps
+can use any provided audio, imagery, or video that the developer uses. 
+These apps are reviewed for 4 categories: 
+
+Copyright - Does it infringe anycommon copyrights? 
+
+Safe - Is it safe to run? Will it steal my data or download a malicious 
+file? 
+
+Useful - Is it actually useful? Does it serve a purpose? Is it spam?
+Does it have effort put into it?
+
+Compliance - Does the app follow the PenguinMod Uploading Rules & Guidelines
+and the PenguinApp Uploading Guidelines? Does it contain material that 
+should be brought to the attention of the user prior to downloading/use.
+
+All applications uploaded will be instantly available to any user. They
+will be notibly marked that they are untested and could be dangerous.
+Every application uploaded will be reviewed by MindaMan.
+
+PLEASE REPORT ANY UGC THAT DOES NOT FOLLOW THE COMMUNITY GUIDELINES OF 
+PENGUINAPP. OPEN A TICKET IN THE ISSUES TAB, CONTACT MINDAMAN THROUGH 
+DISCORD, ORCONTACT THROUGH EMAIL AS SOON AS POSSIBLE. 
+DO NOT SPAM THESE CONTACT METHODS. ONE IS ENOUGH. IF YOU BELIEVE THAT
+YOUR TICKET GOT LOST, PLEASE SUBMIT A NEW ONE AND SAY THAT IT IS A RESUBMIT.
+
+5. WARRANTY
+  As this is open-source software, the user assumes all risks of using it.
+MindaMan is not liable for any damages to any kind of hardware/software.
+For more information please refer to the WARRANTY section of the MIT License.
+
+6. CONTACT METHODS
+
+E-MAIL (Electronic Mail) - mindaofficial01@gmail.com
+DISCORD - mindaman
+OPEN A ISSUE IN THE ISSUES TAB
+
 
 END
