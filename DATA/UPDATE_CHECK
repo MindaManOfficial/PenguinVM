@@ -1,4 +1,4 @@
-doing some testing. this will be a github local file for updating and telling PenguinVM what to update. this can also carry metadata that can alter code in the system.
+forceUpdate: true
 �EncryptBootLoader_version:0.6.1
 �EncryptBootLoader_build:1120122x3a ☑
 �BitShell_verion:0.7.3
