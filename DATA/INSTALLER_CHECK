@@ -1,0 +1,2 @@
+Check for inaccuracies in code/past updates. Scans the project dataurl below and checks if it matches. If it doesn't it will not load without being forced to.
+DO NOT FORCE LOAD THE INSTALLER. THIS IS A MAJOR SECURITY RISK.
