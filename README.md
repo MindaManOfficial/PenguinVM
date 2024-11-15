@@ -31,7 +31,7 @@ They all have separate admininstrator passwords.
 Recommendations
 
 - Decent hardware. (This is a resource intensive experience) (May try to optimize
-- at a later date.)
+at a later date.)
 - (If in PenguinMod) Play in mini mode. NOT FULLSCREEN (I have no idea why but the
 VM works way better in minimode than in full screen)
 - Report buggy behavior
