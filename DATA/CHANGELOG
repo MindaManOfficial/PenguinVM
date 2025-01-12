@@ -1,6 +1,24 @@
 Changelog:
 
--ADDED PENGUIN
+0.7.6
+-Major Optimizations
+-Fixed Loading ASCII
+-Rewrote all drawing functions to go from a central control
+-Removed the Advanced Messages Extension to reduce lag
+-Finished the installer and published (not QA tested)
+-Updated EncryptBootloader
+-Added E2EE (End to End Encryption)
+-Added the ability to check for updates based on sprite version and build id
+
+0.7.5
+Added Installer (Unfinished)
+Created Self Updating ASCII version number on BitShell Startup
+0.7.4
+
+(Unknown)
+
+v0.7.3
+-ADDED PENGUIN LOGO
 
 -Fixed minor spelling mistakes
 
